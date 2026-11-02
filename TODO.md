@@ -1,0 +1,5 @@
+- [x] Initialise and clone a repository
+- [x] Make sure there is a license in the repository
+- [ ] Add a TODO.md file
+- [ ] Add items to the to-do list
+- [ ] Tick off the things I've already done.
